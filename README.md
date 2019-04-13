@@ -1,6 +1,6 @@
 # Intro
 
-Python Studying
+## Python Studying
 
 개인적으로 따로 공부하고 있는 파이썬입니다.
 
